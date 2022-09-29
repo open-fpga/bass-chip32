@@ -23,11 +23,3 @@ Compile to single executable on GCC using make.
 cd bass
 make
 ```
-
-<br />
-
-## Errata of "doc/chip32vm.txt" V 0.50
-"print" instruction is now changed to "printf"<br>
-"fill" instruction is now changed to "xfill"<br>
-"core" instruction is now changed from immediate to register style format "core rx"<br>
-"queryslot" instruction was changed from $4A to $5D
